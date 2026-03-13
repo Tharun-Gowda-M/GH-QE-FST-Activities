@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <property>
+    <property_id>35237</property_id>
+    <bathrooms>1.0</bathrooms>
+    <price>7020000.0</price>
+  </property>
+  <property>
+    <property_id>32238</property_id>
+    <bathrooms>3.0</bathrooms>
+    <price>10000000.0</price>
+  </property>
+  <property>
+    <property_id>44699</property_id>
+    <bathrooms>nan</bathrooms>
+    <price>4128000.0</price>
+  </property>
+</root>
